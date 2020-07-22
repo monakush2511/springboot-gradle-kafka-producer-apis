@@ -22,7 +22,7 @@ public class User {
 		// TODO Auto-generated constructor stub
 	}
 
-
+   //parameterized constructor
 	public User(int id, String name, String[] address) {
 		super();
 		this.id = id;
